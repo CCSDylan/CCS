@@ -1,4 +1,4 @@
-##Frequently Asked Questions/Question and Answer
+## Frequently Asked Questions/Question and Answer
 
 Q: How can Cajon Computer Society benefit me as a student?
 	A:
